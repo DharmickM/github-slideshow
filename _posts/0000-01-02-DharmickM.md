@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
 ---
-This is GitHub DharmickM slide
+This is GitHub awesome slide slide
 Use the left arrow to go back!
